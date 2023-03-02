@@ -1,6 +1,7 @@
-
 package main
 
-func main(){
-fmt.print("hi")
+import "fmt"
+
+func main() {
+	fmt.Print("higgggggggg")
 }
